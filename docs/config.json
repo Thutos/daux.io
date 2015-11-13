@@ -1,26 +1,27 @@
 {
-    "title": "MODISAR DOCS",
-    "tagline": "Learn more about modisar",
-    "author": "Justin Walsh",   
-    "image": "<base_url>img/app.png",
+  "title": "MODISAR DOCUMENTATION",
+    "tagline": "documentation",
+    "author": "Modisar Net",
+    "image": "",
     "theme": "daux-blue",
+    "breadcrumbs": false,
     "template": "default",
-    "clean_urls": true,
-    "toggle_code": true,
-    "breadcrumbs": true,
-    "breadcrumb_separator": "Chevrons",
-    "date_modified": true,
-    "float": true,
-    "file_editor": false,   
-    "repo": "justinwalsh/daux.io",
+    "clean_urls": false,
+    "toggle_code": false,
+    "date_modified": false,
+    "float": false,
+    "file_editor": false,
+    "repo": "",
+    "twitter": [],
+    "google_analytics": "",
+    "timezone": "America/Los_Angeles",
+    "piwik_analytics": false,
+    "piwik_analytics_id": "0",
+    "languages": {},
     "ignore": {
-            "files": ["Work_In_Progress.md"],
-            "folders": ["99_Not_Ready"]
-    },
-    
-    "google_analytics": "UA-12653604-10",
+        "files": [],
+        "folders": []
+    },    
     "links": {
- 
-        "Made by Modisar Net": "https://modisar.com"
     }
 }
